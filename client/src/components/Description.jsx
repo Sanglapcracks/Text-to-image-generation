@@ -24,7 +24,7 @@ const Description = () => {
                  Powered by advanced AI technology, the creative possibilities are limitless!</p>
         </div>
       </div>
-    </div>
+    </motion.div>
   )
 }
 
