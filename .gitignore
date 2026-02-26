@@ -1,0 +1,13 @@
+# API Secrets
+client/.env
+server/.env
+.env
+
+# Dependencies
+node_modules/
+client/node_modules/
+server/node_modules/
+
+# Build/Logs
+client/dist/
+*.log
